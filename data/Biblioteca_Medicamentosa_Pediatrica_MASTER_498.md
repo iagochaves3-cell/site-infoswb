@@ -2838,7 +2838,7 @@ pulso refratária
 Lactentes/crianças;
 algoritmo pediátrico
 EV/IO 5 mg/kg em bolus: primeira dose máximo 300 mg; doses
-subsequentes também máximo 300 mg cada; até 3 doses no total durante
+subsequentes máximo 150 mg cada; até 3 doses no total durante
 PCR. Preparo PCH ≤30 kg:150 mg em SG 5% q.s.p.30 mL=5 mg/mL;
 retirar apenas a dose calculada. >30 kg, dose >150 mg: diluir a dose
 em 10-20 mL de SG 5%. [S2]
