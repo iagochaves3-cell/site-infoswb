@@ -21242,9 +21242,9 @@ Histoplasmose
 disseminada
 Crianças; especialmente
 HIV/imunossupressão
-VO 2-5 mg/kg/dose 8/8 h por 3 dias; depois 2-5 mg/kg/dose 12/12 h, máximo
-400 mg/dia na manutenção, por 12 meses; envolvimento SNC exige ≥12
-meses após indução apropriada. [S2]
+VO 2-5 mg/kg/dose (máx. 200 mg/dose) 8/8 h por 3 dias; depois 2-5 mg/kg/dose
+(máx. 200 mg/dose = 400 mg/dia) 12/12 h na manutenção, por 12 meses; envolvimento SNC exige ≥12
+meses após indução apropriada. [S2] [S5]
 AEP também descreve 6-8 mg/kg/dia divididos 12/12 h; ajustar por nível
 sérico e formulação.
 Esporotricose
@@ -21291,6 +21291,7 @@ refratárias.
 FONTES DO ESQUEMA • CONSULTA EM 13/09/2026
 [S1] MS - paracoccidioidomicose: tratamento (gov.br)
 [S2] AEP/Pediamécum - itraconazol (aeped.es)
+[S5] NIH/CDC/PIDS - Histoplasmosis, pediatric OIs (clinicalinfo.hiv.gov)
 [S3] SESA-PR - manejo de esporotricose (www 3.maringa.pr.gov.br)
 [S4] Guía-ABE 2025 - dermatofitoses pediátricas (guia-abe.es)
 FICHA 260 / 498 • REFERÊNCIAS CLICÁVEIS • 13/09/2026
@@ -28216,9 +28217,9 @@ secundária
 ou adjuvante
 VO: iniciar 8-10 mg/kg/dia divididos em 2 tomadas. Aumentar até 10
 mg/kg/dia a intervalos aproximadamente semanais. Alvo adjuvante
-30-46 mg/kg/dia; máximo 60 mg/kg/dia. Respeitar simultaneamente
-teto da apresentação: suspensão oral 1.200 mg/dia; comprimidos
-2.400 mg/dia. Tratamento contínuo, reavaliando crises e
+30-46 mg/kg/dia; máximo 60 mg/kg/dia. Não exceder 2.400 mg/dia (maior dose
+diária da bula); teto igual para suspensão e
+comprimido (bioequivalentes). Tratamento contínuo, reavaliando crises e
 tolerabilidade. [S1]
 Dose da bula brasileira de 2026; retirada gradual. Não converter
 mg/kg/dia em mg/kg/dose.
@@ -32990,8 +32991,8 @@ Resumo de Indicações Clínicas:
 Imunoglobulina equina neutralizante do veneno de serpentes do gênero Bothrops (jararaca, jararacuçu, urutu, cotiara). Primeira linha no Envenenamento Botrópico com manifestações locais graves e coagulopatia sistêmica.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Acidente Botrópico Leve (IV)]: 2 a 4 frascos-ampola IV em infusão de 20 a 60 min — Dose idêntica para crianças e adultos.
-• [Acidente Botrópico Moderado (IV)]: 4 a 8 frascos-ampola IV em infusão de 20 a 60 min — Infusão lenta
+• [Acidente Botrópico Leve (IV)]: 3 frascos-ampola IV em infusão de 20 a 60 min — Dose idêntica para crianças e adultos.
+• [Acidente Botrópico Moderado (IV)]: 6 frascos-ampola IV em infusão de 20 a 60 min — Infusão lenta
 • [Acidente Botrópico Grave (IV)]: 12 frascos-ampola IV em infusão de 20 a 60 min diluído em SF0,9% — Dose máxima recomendada
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
@@ -33229,7 +33230,7 @@ Resumo de Indicações Clínicas:
 Imunoglobulina equina neutralizante do veneno de serpentes do gênero Micrurus (coral verdadeira - veneno neurotóxico pré-sináptico e pós-sináptico). Primeira linha no Envenenamento Elapídico.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Acidente Elapídico (Qualquer gravidade é considerada potencialmente grave) (IV)]: 10 frascos-ampola IV administrados em infusão lenta de 30 a 60 minutos diluído em SF0,9%. — Dose única imediata. Manter vigilância rigorosa para insuficiência respiratória por paralisia diafragmática.
+• [Acidente Elapídico moderado ou grave (todo caso é potencialmente grave; leve, só manifestações locais: observar no mínimo 24 h sem soro inicial e administrar se surgir miastenia) (IV)]: Moderado (ptose/miastenia aguda): 5 frascos-ampola; grave (fraqueza intensa, paralisia, disfagia ou insuficiência respiratória): 10 frascos-ampola. IV em infusão lenta de 30 a 60 minutos diluído em SF 0,9%, de uma só vez, sem fracionar (PCDT Acidentes Ofídicos, Portaria SECTICS/MS nº 83/2025). — Dose única imediata. Manter vigilância rigorosa para insuficiência respiratória por paralisia diafragmática.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Emergência: Sem contraindicações.
@@ -33249,7 +33250,7 @@ Envenenamento
 escorpiônico
 moderado por Tityus
 Crianças
-Soro antiescorpiônico 2-3 frascos-ampola EV, em administração
+Soro antiescorpiônico 3 frascos-ampola EV (PCDT 2025), em administração
 única precoce. [S1]
 Moderado: dor local intensa com náusea/vômitos,
 sudorese/sialorreia discretas, agitação, taquipneia/taquicardia.
@@ -33258,7 +33259,7 @@ Envenenamento
 escorpiônico grave
 por Tityus
 Crianças
-4-6 frascos-ampola EV em administração única. [S1]
+6 frascos-ampola EV em administração única; não exceder 6 (PCDT Acidentes Escorpiônicos, Portaria SECTICS/MS nº 59/2025: moderado 3, grave 6). [S1]
 Grave: vômitos incoercíveis, sudorese/sialorreia intensas,
 prostração, convulsão, coma, bradicardia, insuficiência cardíaca,
 edema pulmonar ou choque. Diluir emSF 0,9% ouSG 5%1:2-1:5;
@@ -33290,8 +33291,8 @@ Resumo de Indicações Clínicas:
 Imunoglobulina equina neutralizante do veneno de escorpiões do gênero Tityus (Tityus serrulatus / escorpião amarelo). Primeira linha mandatória no Envenenamento Escorpiônico Moderado e Grave em crianças (manifestações sistêmicas com vômitos profusos, sudorese, taquicardia/bradicardia, choque cardiogênico e edema agudo de pulmão).
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Escorpionismo Moderado (vômitos ocasionais, sudorese, taquicardia) (IV)]: 2 a 3 frascos-ampola IV em infusão lenta de 20 a 30 minutos diluído em SF0,9% — Dose idêntica para crianças e adultos.
-• [Escorpionismo Grave (vômitos profusos incoercíveis, choque, arritmias, EAP) (IV)]: 4 a 6 frascos-ampola IV em infusão lenta imediata em 20 minutos diluído em SF0,9% — Dose imediata na emergência pediátrica.
+• [Escorpionismo Moderado (vômitos ocasionais, sudorese, taquicardia) (IV)]: 3 frascos-ampola IV em infusão lenta de 20 a 30 minutos diluído em SF0,9% — Dose idêntica para crianças e adultos.
+• [Escorpionismo Grave (vômitos profusos incoercíveis, choque, arritmias, EAP) (IV)]: 6 frascos-ampola IV em infusão lenta imediata em 20 minutos diluído em SF0,9%; não exceder 6 frascos-ampola (PCDT Acidentes Escorpiônicos, Portaria SECTICS/MS nº 59/2025) — Dose imediata na emergência pediátrica.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Acidente Leve: Contraindicado o uso de soro no escorpionismo leve (apenas dor local e eritema), onde se indica apenas bloqueio anestésico local e analgesia simples.; Emergência Moderada/Grave: Sem contraindicações no acidente sistêmico.
@@ -34197,7 +34198,7 @@ aguda ou persistente
 - recomendação OMS
 2024
 Crianças ≤10 anos
-Zinco ELEMENTAR 5 mg VO uma vez/dia por até 14 dias, associado à
+Zinco ELEMENTAR 5 mg VO uma vez/dia por 10-14 dias, associado à
 reidratação e alimentação. [S1]
 Recomendação condicional, certeza baixa para a dose; atualização
 difere do material brasileiro tradicional.
@@ -35864,9 +35865,9 @@ graves por agentes
 sensíveis
 ≥4 semanas; função
 renal normal
-4 semanas-<10 anos: 7,5 mg/kg/dose EV a cada 24 h, máximo 320
-mg/dose. 10-<18 anos: 6-7 mg/kg/dose a cada 24 h, máximo 560
-mg/dose; faixa alta para choque/UTI. Infundir em 20-60 min.
+≥4 semanas: 7 mg/kg/dose EV/IM a cada 24 h, máximo 560
+mg/dose; aumento acima disso só com infectologia/farmácia clínica;
+obeso: peso ajustado. Infundir em 20-60 min.
 Individualizar por função renal/AUC. Duração conforme foco,
 sensibilidade e resposta. [S2]
 Não confundir dose EV com dose inalatória.
@@ -38421,9 +38422,16 @@ SC nas semanas 0,1,2,3,4; depois a cada 4 semanas: 15-<50 kg 75
 mg/dose; ≥50 kg 150 mg/dose. [S1]
 Espondilite
 anquilosante juvenil
-≥12 anos na FDA atual
+≥12 anos na FDA (abr/2026)
 SC nas semanas 0,1,2,3,4; depois a cada 4 semanas: <50 kg 75
 mg/dose; ≥50 kg 150 mg/dose. [S2]
+Artrite relacionada à
+entesite (ERA)
+≥4 anos e ≥15 kg na FDA
+SC nas semanas 0,1,2,3,4; depois a cada 4 semanas: 15-<50 kg 75
+mg/dose; ≥50 kg 150 mg/dose. Abaixo de 15 kg: sem dose
+declarada. [S2]
+nr-axSpA: aprovada só em adultos (FDA).
 Ampliação internacional; confirmar correspondência da bula
 brasileira.
 MONITORIZAÇÃO E PRECAUÇÕES Rastrear TB e candidíase; pode agravar doença inflamatória
@@ -39807,9 +39815,10 @@ es/supraventriculare
 s complexas -
 manutenção
 ≥2 anos; rim normal
-Iniciar 1,2 mg/kg/dose VO a cada 8 h (=3,6 mg/kg/dia). Aumentar
-com intervalo ≥36 h entre etapas; máximo 2,4 mg/kg/dose a cada 8
-h (=7,2 mg/kg/dia). Tratamento contínuo, titulado pelo
+Iniciar 30 mg/m²/dose VO a cada 8 h (=90 mg/m²/dia). Aumentar
+com intervalo ≥36 h entre etapas; máximo 60 mg/m²/dose a cada 8
+h (=180 mg/m²/dia, ≈360 mg/dia do adulto). Dose por superfície
+corporal, não por peso. Tratamento contínuo, titulado pelo
 QTc/frequência e resposta. [S1]
 Mesmas indicações
 em menores de 2
@@ -39818,9 +39827,9 @@ Lactentes/neonatos
 RESTRIÇÃO / CONTEXTO
 ESPECÍFICO
 Multiplicar a dose de ≥2 anos pelo fator etário da curva específica da
-bula. Exemplos da bula: 1 mês fator 0,7; 1 semana fator 0,3. Não
+bula. Exemplos da bula: 20 meses fator 0,97; 1 mês fator 0,68 (≈20 mg/m²/dose); 1 semana fator 0,3 (9 mg/m²/dose). Não
 interpolar idade gestacional/pós-natal sem farmacologia clínica. [S1]
-Não aplicar 1,2 mg/kg a cada 8 h integral ao neonato; fonte não
+Não aplicar 30 mg/m² a cada 8 h integral ao neonato; estado de equilíbrio pode levar ≥1 semana; fonte não
 fornece equação contínua para todas idades.
 MONITORIZAÇÃO E PRECAUÇÕES Iniciar/reiniciar em hospital com ECG e eletrólitos corrigidos; QT
 ≥500 ms exige redução/aumento do intervalo/suspensão. Eliminação renal: intervalo e dose devem
