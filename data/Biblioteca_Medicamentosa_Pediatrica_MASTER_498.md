@@ -33249,7 +33249,7 @@ Envenenamento
 escorpiônico
 moderado por Tityus
 Crianças
-Soro antiescorpiônico 2-3 frascos-ampola EV, em administração
+Soro antiescorpiônico 3 frascos-ampola EV (PCDT 2025), em administração
 única precoce. [S1]
 Moderado: dor local intensa com náusea/vômitos,
 sudorese/sialorreia discretas, agitação, taquipneia/taquicardia.
@@ -33258,7 +33258,7 @@ Envenenamento
 escorpiônico grave
 por Tityus
 Crianças
-4-6 frascos-ampola EV em administração única. [S1]
+6 frascos-ampola EV em administração única; não exceder 6 (PCDT Acidentes Escorpiônicos, Portaria SECTICS/MS nº 59/2025: moderado 3, grave 6). [S1]
 Grave: vômitos incoercíveis, sudorese/sialorreia intensas,
 prostração, convulsão, coma, bradicardia, insuficiência cardíaca,
 edema pulmonar ou choque. Diluir emSF 0,9% ouSG 5%1:2-1:5;
@@ -33290,8 +33290,8 @@ Resumo de Indicações Clínicas:
 Imunoglobulina equina neutralizante do veneno de escorpiões do gênero Tityus (Tityus serrulatus / escorpião amarelo). Primeira linha mandatória no Envenenamento Escorpiônico Moderado e Grave em crianças (manifestações sistêmicas com vômitos profusos, sudorese, taquicardia/bradicardia, choque cardiogênico e edema agudo de pulmão).
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Escorpionismo Moderado (vômitos ocasionais, sudorese, taquicardia) (IV)]: 2 a 3 frascos-ampola IV em infusão lenta de 20 a 30 minutos diluído em SF0,9% — Dose idêntica para crianças e adultos.
-• [Escorpionismo Grave (vômitos profusos incoercíveis, choque, arritmias, EAP) (IV)]: 4 a 6 frascos-ampola IV em infusão lenta imediata em 20 minutos diluído em SF0,9% — Dose imediata na emergência pediátrica.
+• [Escorpionismo Moderado (vômitos ocasionais, sudorese, taquicardia) (IV)]: 3 frascos-ampola IV em infusão lenta de 20 a 30 minutos diluído em SF0,9% — Dose idêntica para crianças e adultos.
+• [Escorpionismo Grave (vômitos profusos incoercíveis, choque, arritmias, EAP) (IV)]: 6 frascos-ampola IV em infusão lenta imediata em 20 minutos diluído em SF0,9%; não exceder 6 frascos-ampola (PCDT Acidentes Escorpiônicos, Portaria SECTICS/MS nº 59/2025) — Dose imediata na emergência pediátrica.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Acidente Leve: Contraindicado o uso de soro no escorpionismo leve (apenas dor local e eritema), onde se indica apenas bloqueio anestésico local e analgesia simples.; Emergência Moderada/Grave: Sem contraindicações no acidente sistêmico.
