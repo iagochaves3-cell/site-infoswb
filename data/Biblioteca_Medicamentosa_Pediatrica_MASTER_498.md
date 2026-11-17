@@ -16812,10 +16812,13 @@ exposição prévia
 800 mg/dia. Candidemia sem foco metastático: tratar ≥ 14 dias após
 primeira cultura negativa e resolução dos sinais; focos profundos
 prolongam tratamento. [S2]
-Neonatos: IDSA usa 12 mg/kg a cada 24 h (alternativa à anfotericina B,
-se sem profilaxia prévia com fluconazol); bula ANVISA/AEP: mesma dose
-em mg/kg a cada 72 h (0-14 dias) e a cada 48 h (15-28 dias); definir o
-intervalo pela idade pós-natal e função renal.
+Neonatos, dois esquemas distintos que não se misturam: (1) IDSA para
+doença invasiva: 12 mg/kg a cada 24 h (alternativa à anfotericina B, se
+sem profilaxia prévia com fluconazol); (2) bula ANVISA/AEP: mesma dose em
+mg/kg a cada 72 h (0-14 dias) e a cada 48 h (15-28 dias). Não aplicar os
+intervalos da bula ao esquema IDSA (reduziria a dose diária a um terço);
+escolha do esquema e ajuste por idade pós-natal e função renal exigem
+validação neonatal especializada.
 Criptococose -
 consolidação após
 indução
@@ -28694,7 +28697,7 @@ Resumo de Indicações Clínicas:
 Analgésico e antipirético não opioide de ação central (inibidor da síntese de prostaglandinas no SNC) padrão-ouro em pediatria desde o período neonatal. Primeira linha de escolha para controle de Febre e Dor de intensidade leve a moderada em recém-nascidos, lactentes, crianças e pacientes com contraindicação a AINEs (dengue, úlcera péptica, asma).
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Febre e Dor — Lactentes e Crianças (VO)]: 10 a 15 mg/kg/dose (Dose padrão mais utilizada: 15 mg/kg/dose ou ~1 gota/kg/dose da formulação 200 mg/mL, máx 35 gotas/dose; conferir mg/gota do frasco) — A cada 4 a 6 horas conforme necessidade (Dose máxima diária: 60 a 75 mg/kg/dia em crianças ou máx 4 g/dia; em recém-nascidos e prematuros limitar a máx 40 a 60 mg/kg/dia).
+• [Febre e Dor — Lactentes e Crianças (VO)]: 10 a 15 mg/kg/dose (Dose padrão mais utilizada: 15 mg/kg/dose ou ~1 gota/kg/dose da formulação 200 mg/mL; bula Tylenol: máx 35 gotas/dose em < 12 anos, e acima dessa idade calcular em mg; conferir mg/gota do frasco) — A cada 4 a 6 horas conforme necessidade (Dose máxima diária: 60 a 75 mg/kg/dia em crianças ou máx 4 g/dia; em recém-nascidos e prematuros limitar a máx 40 a 60 mg/kg/dia).
 • [Via Intravenosa na Emergência / Pós-Operatório (IV)]: Lactentes e Crianças ≤ 10 kg: 7,5 mg/kg/dose a cada 6h (Máx: 30 mg/kg/dia). Crianças >10 a 33 kg: 15 mg/kg/dose a cada 6h (Máx: 60 mg/kg/dia, até 2 g/dia); >33 a 50 kg: 15 mg/kg/dose a cada 6h (Máx: 60 mg/kg/dia, até 3 g/dia). Adolescentes > 50 kg: 1 g a cada 6h (Máx: 4 g/dia). — Infundir em 15 minutos em SF0,9% ou SG5%.
 • [Via Retal (Supositório)]: 15 a 20 mg/kg/dose a cada 6 a 8 horas (máx 60 mg/kg/dia; 20 mg/kg no máx 3 doses/dia) — Absorção mais lenta e variável
 
