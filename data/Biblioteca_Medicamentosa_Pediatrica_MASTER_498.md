@@ -20866,7 +20866,7 @@ Esquemas Posológicos Pediátricos Detalhados (Indicação • População • D
 • [Hipercalemia Grave com Alteração no ECG (IV)]: 0,1 UI/kg de insulina regular combinada com 0,5 g/kg de glicose (2 mL/kg de SG25% ou 5 mL/kg de SG10%) infundido em 30 minutos. — Desloca o potássio para o intracelular.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
-CAD sem Reposição Prévia de Potássio: NUNCA iniciar insulina se potássio sérico < 3,3 a 3,5 mEq/L (risco fatal de arritmias cardíacas por hipocalemia profunda).; Bolus IV na CAD: Contraindicado o bolus IV inicial na CAD pediátrica pelo risco de edema cerebral fulminante.
+CAD sem Reposição Prévia de Potássio: NUNCA iniciar insulina se potássio sérico < 3,0 mEq/L (repor K+ antes; risco fatal de arritmias cardíacas por hipocalemia profunda).; Bolus IV na CAD: Contraindicado o bolus IV inicial na CAD pediátrica pelo risco de edema cerebral fulminante.
 
 Status da fonte: DOCUMENTARY_ONLY_REQUIRES_REGIMEN_LEVEL_SOURCE_MAPPING
 
@@ -28027,9 +28027,9 @@ uma vez/dia por 10 dias (MS).3-11 meses: 3 mg/kg VO uma vez/dia.
 <3 meses: reservar situação crítica; profilaxia em prematuro exige
 especialista, pois não se deve copiar a tabela de tratamento. [S1,
 S2]
-CDC usa 7 dias após última exposição. A dose de 3,5 mg/kg do
-lactente 9-11 meses pertence ao tratamento AAP, não é
-automaticamente dose profilática.
+CDC usa 7 dias após última exposição. A dose de 3,5 mg/kg/dose
+(2 vezes ao dia) do lactente 9-11 meses pertence ao tratamento AAP
+(CDC/FDA: 3 mg/kg/dose), não é automaticamente dose profilática.
 MONITORIZAÇÃO E PRECAUÇÕES Ajustar na disfunção renal; os esquemas fixos adultos de
 depuração não podem ser transpostos automaticamente ao neonato. Vigiar vômitos e reações
 cutâneas graves.
