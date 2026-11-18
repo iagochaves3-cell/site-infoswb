@@ -1748,7 +1748,7 @@ Resumo de Indicações Clínicas:
 Agonista adrenérgico alfa e beta potente. Primeira linha mandatória no tratamento da anafilaxia, parada cardiorrespiratória (PCR), choque distributivo/cardiogênico refratário e nebulização no crupe viral moderado a grave (laringotraqueobronquite aguda).
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Anafilaxia (Intramuscular - Vasto Lateral)]: 0,01 mg/kg (0,01 mL/kg da solução 1:1000) — Dose máxima: 0,3 mg (< 12 anos) ou 0,5 mg (adolescentes). Pode repetir a cada 5 a 15 minutos se refratário.
+• [Anafilaxia (Intramuscular - Vasto Lateral)]: 0,01 mg/kg (0,01 mL/kg da solução 1:1000) — Dose máxima: 0,5 mg (0,5 mL), como no esquema principal; alguns consensos limitam a 0,3 mg em pré-púberes/< 12 anos. Repetir a cada 5 minutos (alguns consensos aceitam 5 a 15 minutos) se refratário.
 • [Parada Cardiorrespiratória (IV/IO)]: 0,01 mg/kg (0,1 mL/kg da diluição 1:10.000 = 0,1 mg/mL) — A cada 3 a 5 minutos durante manobras de RCP (Máx: 1 mg/dose).
 • [Crupe Viral / Estridor em Repouso (Nebulização)]: 0,5 mL/kg de adrenalina 1:1000 pura (Máx: 5 mL) — Nebulização pura com O2 em fluxo de 6 a 8 L/min. Observar rebote por 2 a 4 horas.
 
@@ -2817,7 +2817,7 @@ Metilxantina broncodilatadora e estimulante do centro respiratório. Indicada no
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
 • [Apneia da Prematuro (IV/VO)]: Ataque: 5 a 6 mg/kg em 30 min. Manutenção: 1,5 a 3 mg/kg/dose a cada 8 a 12 horas. — Manter nível sérico de teofilina entre 6 e 12 mcg/mL.
-• [Crise Asmática Grave em UTI (IV)]: Ataque (se virgem de xantina): 5 a 6 mg/kg em 30 min. Manutenção contínua: 0,8 a 1 mg/kg/h em bomba. — Faixa terapêutica estreita (10 a 20 mcg/mL); monitorizar ECG e nível sérico.
+• [Crise Asmática Grave em UTI (IV)]: Ataque (se virgem de xantina): 5 a 6 mg/kg em 30 min. Manutenção contínua conforme a idade (ver bloco principal): 6 semanas-<6 meses 0,5 mg/kg/h; 6-<12 meses 0,7; 1-<9 anos 0,9-1,1; 9-<12 anos 0,7; 12-18 anos 0,5-0,7 mg/kg/h, em bomba. — Faixa terapêutica estreita (10 a 20 mcg/mL); monitorizar ECG e nível sérico.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Toxicidade: Alto risco de taquiarritmias ventriculares, hipotensão, convulsões intratáveis e vômitos refratários em níveis tóxicos (> 20 mcg/mL).; Condições: Úlcera péptica e arritmias cardíacas preexistentes.
@@ -2851,7 +2851,7 @@ graves com pulso
 ≥4 semanas
 Ataque EV 5 mg/kg (máximo 300 mg), em 20-120 min; repetir 1-5
 mg/kg se necessário, até ataque acumulado 15 mg/kg/dia ou 900
-mg/dia. BIC: iniciar 5 mcg/kg/min, faixa 5-15 mcg/kg/min, máximo
+mg/dia (o que for menor). BIC: iniciar 5 mcg/kg/min, faixa 5-15 mcg/kg/min, máximo
 1.200 mg/dia. Desmamar quando estável. [S1, S3]
 Cardioversão não deve ser adiada quando houver instabilidade;
 administração rápida com pulso pode provocar hipotensão. Preparo
@@ -3104,8 +3104,8 @@ Resumo de Indicações Clínicas:
 Antimicrobiano beta-lactâmico aminopenicilínico. Primeira linha de escolha empírica para as infecções comunitárias prevalentes da infância: Otite Média Aguda (OMA), Sinusite Bacteriana Aguda, Faringoamigdalite estreptocócica e Pneumonia Adquirida na Comunidade (PAC) típica não complicada.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Dose Padrão — PAC leve / Amigdalite (VO)]: 45 a 50 mg/kg/dia — Dividido a cada 8 ou 12 horas por 7 a 10 dias
-• [Dose Alta — OMA / Sinusite com risco de Pneumococo resistente (VO)]: 80 a 90 mg/kg/dia (Máx: 2 a 3 g/dia) — Dividido a cada 12 horas por 7 a 10 dias (10 dias se < 2 anos)
+• [Dose Padrão — PAC leve / Amigdalite (VO)]: 45 a 50 mg/kg/dia — Dividido a cada 8 ou 12 horas; PAC: 5 a 7 dias; amigdalite estreptocócica: 10 dias (máx 1 g/dia)
+• [Dose Alta — OMA / Sinusite com risco de Pneumococo resistente (VO)]: 80 a 90 mg/kg/dia (Máx: 2 a 3 g/dia) — Dividido a cada 12 horas; OMA: 10 dias se < 2 anos ou quadro grave, 7 dias aos 2-5 anos, 5 dias se > 5 anos; sinusite: 10 dias
 • [Profilaxia de Endocardite Infecciosa (VO)]: 50 mg/kg (Máx: 2 g) — Dose única 30 a 60 minutos antes do procedimento de risco
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
@@ -3219,7 +3219,7 @@ Associação de aminopenicilina com inibidor irreversível de beta-lactamase. Pr
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
 • [Dose Padrão — Mordeduras / Infecções leves a moderadas (VO)]: 40 a 50 mg/kg/dia (base amoxicilina) — Dividido a cada 8h (formulação 4:1) ou a cada 12h (formulação 7:1)
 • [Dose Alta — OMA grave / Falha terapêutica (VO)]: 80 a 90 mg/kg/dia de amoxicilina com formulação 14:1 (ES 600 mg/5 mL) para não ultrapassar 6,4 a 10 mg/kg/dia de clavulanato. — Dividido a cada 12 horas por 10 dias
-• [Infecções Graves Intra-hospitalares (IV)]: 90 a 100 mg/kg/dia (base amoxicilina) — Dividido a cada 8 horas em infusão lenta de 30 min
+• [Infecções Graves Intra-hospitalares (IV)]: 75 mg/kg/dia (≥3 meses e <40 kg; 25 mg/kg/dose; base amoxicilina; máx. 1 g/dose) — Dividido a cada 8 horas (até 100 mg/kg/dia, a cada 6 horas, se grave) em infusão lenta de 30 min
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Condições: Histórico prévio de icterícia colestática ou disfunção hepática associada ao uso de amoxicilina-clavulanato; alergia grave a penicilinas.; Efeitos: Aumento da frequência de diarreia por hipermotilidade gástrica induzida pelo clavulanato (minimizado com formulações 7:1 ou 14:1 ingeridas com alimentos).
@@ -4809,11 +4809,11 @@ Apresentações descritas (verificação individual pendente):
 Suspensão injetável frasco-ampola 600.000 UI e 1.200.000 UI (via IM exclusiva)
 
 Resumo de Indicações Clínicas:
-Penicilina de depósito de ação prolongada. Primeira linha de escolha para tratamento de Faringoamigdalite estreptocócica aguda por Streptococcus pyogenes (profilaxia primária da febre reumática), profilaxia secundária da Febre Reumática e tratamento da Sífilis adquirida/congênita tardia.
+Penicilina de depósito de ação prolongada. Primeira linha de escolha para tratamento de Faringoamigdalite estreptocócica aguda por Streptococcus pyogenes (profilaxia primária da febre reumática), profilaxia secundária da Febre Reumática e tratamento da Sífilis adquirida (recente e tardia). Sífilis congênita diagnosticada após o período neonatal (>28 dias): penicilina G cristalina EV por 10 dias (benzatina não é o esquema padrão). Neurossífilis: penicilina G cristalina EV, não benzatina.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
 • [Faringoamigdalite Estreptocócica / Profilaxia Primária (IM)]: Peso < 27 kg: 600.000 UI em dose única. Peso ≥ 27 kg: 1.200.000 UI em dose única. — Aplicação intramuscular profunda no glúteo ou vasto lateral.
-• [Profilaxia Secundária da Febre Reumática (IM)]: Peso < 27 kg: 600.000 UI a cada 21 dias. Peso ≥ 27 kg: 1.200.000 UI a cada 21 dias. — Manter por anos conforme critérios de acometimento cardíaco.
+• [Profilaxia Secundária da Febre Reumática (IM)]: Peso < 20 kg: 600.000 UI a cada 21 dias. Peso ≥ 20 kg: 1.200.000 UI a cada 21 dias (critério SBP, conforme bloco principal). — Manter por anos conforme critérios de acometimento cardíaco.
 • [Sífilis Adquirida Precoce (IM)]: 50.000 UI/kg em dose única (Máx: 2.400.000 UI) — Dose única IM
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
@@ -5265,7 +5265,7 @@ conforme QRS/PA, até pH 7,50-7,55. PCH: teto acumulado 6 mmol/kg
 ou 600 mmol, o menor. Em <2 anos usar 4,2%. [S3, S4]
 Alternativa centro toxicológico:1 mmol/kg em 1-2 min; não
 ultrapassar pH 7,55.
-MONITORIZAÇÃO E PRECAUÇÕES 1 mmol=1 mEq;8,4%=1 mmol/mL=84 mg/mL. Monitorar
+MONITORIZAÇÃO E PRECAUÇÕES 1 mmol=1 mEq;8,4%=1 mmol/mL=84 mg/mL; 10%=100 mg/mL=1,19 mmol/mL (10 mL=11,9 mmol). Monitorar
 Na/K/Ca ionizado, gasometria, ECG e ventilação. Separar de cálcio/catecolaminas; extravasamento
 lesa tecidos.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 13)
@@ -5334,10 +5334,10 @@ Apresentações descritas (verificação individual pendente):
 Solução injetável 8,4% (1 mEq/mL, ampolas 10 mL e frascos 250 mL); Solução injetável 10%; Pó para solução oral
 
 Resumo de Indicações Clínicas:
-Agente alcalinizante sistêmico e urinário. Indicado no tratamento de acidose metabólica grave refratária com pH < 7,10 e bicarbonato < 8 mEq/L, hipercalemia com instabilidade miocárdica, acidose tubular renal proximal/distal e intoxicação por antidepressivos tricíclicos (alcalinização sérica).
+Agente alcalinizante sistêmico e urinário. Indicado no tratamento de acidose metabólica grave refratária com pH < 7,10 e bicarbonato < 8 mEq/L, hipercalemia com instabilidade miocárdica (adjuvante ao cálcio; bicarbonato apenas se houver acidose metabólica), acidose tubular renal proximal/distal e intoxicação por antidepressivos tricíclicos (alcalinização sérica).
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Acidose Metabólica Grave com pH < 7,10 (IV)]: Fórmula de correção: Deficit de HCO3 = Peso (kg) x 0,3 x (15 - HCO3 atual). Corrigir metade do deficit em 2 a 4 horas em solução isotônica (diluir para ≤ 4,2% = 0,5 mEq/mL em água destilada ou SG5%). — Infusão intravenosa lenta em bomba. Não administrar em bólus rápido.
+• [Acidose Metabólica Grave com pH < 7,10 (IV)]: Fórmula de correção: Deficit de HCO3 = Peso (kg) x 0,3 x (15 - HCO3 atual). Corrigir metade do deficit em 2 a 4 horas em solução diluída hiperosmolar (diluir para ≤ 4,2% = 0,5 mEq/mL, ~1000 mOsm/L a 4,2%, em água destilada ou SG5%). — Infusão intravenosa lenta em bomba. Não administrar em bólus rápido.
 • [Intoxicação por Antidepressivos Tricíclicos (IV)]: 1 a 2 mEq/kg em bolus lento em 2 a 5 minutos, seguido de infusão contínua para manter pH sérico entre 7,45 e 7,55. — Monitorar QRS e ECG continuamente.
 • [Acidose Tubular Renal (VO)]: ATR Tipo 1: 2 a 4 mEq/kg/dia. ATR Tipo 2: 5 a 15 mEq/kg/dia. — Dividido em 3 a 4 tomadas diárias
 
@@ -9189,12 +9189,12 @@ Resumo de Indicações Clínicas:
 Cefalosporina de terceira geração parenteral padrão-ouro de longa ação. Primeira linha para Meningite bacteriana em crianças > 1 mês, Sepse bacteriana, Pneumonia complicada/com derrame pleural, Pielonefrite hospitalar, Celulite orbitária e Doença meningocócica.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Meningite Bacteriana Aguda (IV)]: 100 mg/kg/dia em dose única ou 50 mg/kg a cada 12 horas (Máx: 4 g/dia) — Duração estrita de 7 a 14 dias conforme patógeno em infusão de 30 min.
+• [Meningite Bacteriana Aguda (IV)]: 100 mg/kg/dia em dose única ou 50 mg/kg a cada 12 horas (Máx: 4 g/dia) — Duração conforme patógeno (meningococo 7 dias; pneumococo 10-14 dias; Gram-negativos ≥21 dias) em infusão de 30 min.
 • [Sepse / PAC Grave / Pielonefrite / Celulite Orbitária (IV/IM)]: 50 a 80 mg/kg/dia em dose única diária (Máx: 2 g/dia) — Infusão IV lenta em 30 min ou IM profunda (com lidocaína para conforto).
 • [Otite Média Aguda — Resgate na Falha Terapêutica (IM)]: 50 mg/kg/dia por 3 dias consecutivos (ou dose única de 50 mg/kg em casos selecionados) — Via IM profunda
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
-CONTRAINDICAÇÃO NEONATAL ABSOLUTA: Contraindicada em recém-nascidos prematuros e neonatos a termo com hiperbilirrubinemia/icterícia (desloca a bilirrubina da albumina sérica, causando kernicterus/encefalopatia bilirrubínica).; INTERAÇÃO GRAVE COM CÁLCIO: Estritamente contraindicada a coadministração com soluções intravenosas contendo cálcio (incluindo Ringer Lactato e NPT) em qualquer idade, devido ao alto risco fatal de precipitação intravascular de ceftriaxona-cálcio em pulmões e rins.
+CONTRAINDICAÇÃO NEONATAL ABSOLUTA: Contraindicada em recém-nascidos prematuros e neonatos a termo com hiperbilirrubinemia/icterícia (desloca a bilirrubina da albumina sérica, causando kernicterus/encefalopatia bilirrubínica).; INTERAÇÃO GRAVE COM CÁLCIO: Contraindicada em neonatos (≤28 dias) que necessitem ou possam necessitar de cálcio EV (incluindo NPT), com risco fatal de precipitação intravascular de ceftriaxona-cálcio em pulmões e rins. Em qualquer idade, não misturar nem administrar simultaneamente (inclusive em Y) com soluções contendo cálcio (Ringer Lactato, NPT); acima de 28 dias, a administração sequencial é possível somente com lavagem do acesso com líquido compatível.
 
 Status da fonte: DOCUMENTARY_ONLY_REQUIRES_REGIMEN_LEVEL_SOURCE_MAPPING
 
@@ -10517,8 +10517,7 @@ por MRSA sensível
 ≥4 semanas
 ADMINISTRAR EV 15 mg/kg/dose a cada 8 horas, máximo 600
 mg/dose; alternativa VO 10 mg/kg/dose a cada 6 horas, máximo 450
-mg/dose. Outra diretriz hospitalar usa 15 mg/kg/dose VO a cada 8
-horas, máximo 600 mg/dose. Celulite: total 5-10 dias, maior se
+mg/dose. Celulite: total 5-10 dias, maior se
 necrosante/complicada. [S1, S2]
 Confirmar suscetibilidade, incluindo resistência induzível. Não somar
 alternativas.
@@ -11128,7 +11127,7 @@ gastrointestinais
 Crianças; neonatos
 requerem esquema
 específico
-Preferir VO/enteral: 1-2 mEq/kg/dose, máximo 20 mEq/dose;
+Preferir VO/enteral (off label no Brasil: Ionclor e Slow-K são de uso adulto): 1-2 mEq/kg/dose, máximo 20 mEq/dose;
 repetir somente após controle do potássio, até 5 mEq/kg/dia e
 máximo 50 mEq/dia na reposição aguda. Se EV: enfermaria 0,2
 mEq/kg/h por 3 h (máximo 10 mEq/h); UTI 0,4 mEq/kg/h por 1-2 h
@@ -11675,20 +11674,19 @@ Fonte: Monografias Pediátricas (413), linha 126. https://docs.google.com/spread
 ESQUEMAS POR INDICAÇÃO • POPULAÇÃO PEDIÁTRICA
 INDICAÇÃO / POPULAÇÃO
 DOSE, INTERVALO E DURAÇÃO
-Dor moderada a
-intensa
+Dor moderada
 Adolescentes ≥12 anos
 - uso restrito
 RESTRIÇÃO / CONTEXTO
 ESPECÍFICO
-CODEÍNA solução oral: 0,5-1 mg/kg/dose VO a cada 4-6 h, reduzindo
+CODEÍNA solução oral 3 mg/mL (15 mg = 5 mL): 0,5-1 mg/kg/dose VO a cada 4-6 h, reduzindo
 a dose calculada/omitindo tomadas para NÃO ultrapassar 60 mg no
 total de 24 h, teto pediátrico da bula brasileira consultada. Dor
 aguda: menor período possível, com reavaliação e retirada à
 melhora; bula descreve até cerca de 4 dias. [S1]
 Não usar <12 anos, após tonsilectomia/adenoidectomia em <18
 anos, em metabolizador CYP 2D6 ultrarrápido ou com depressão
-respiratória. O teto 60 mg/DIA não é 60 mg/dose.
+respiratória. Evitar também se a função respiratória puder estar comprometida (apneia do sono, obesidade, doença pulmonar/cardíaca/neuromuscular grave, trauma maior ou cirurgia extensa; EMA/MHRA/FDA, não consta na bula S1) e usar só se paracetamol ou ibuprofeno isolados forem insuficientes. O teto 60 mg/DIA não é 60 mg/dose.
 MONITORIZAÇÃO E PRECAUÇÕES Metabolismo imprevisível em morfina; monitorar ventilação e
 sedação. Evitar benzodiazepínicos e outros depressores. A apresentação comprimido desta bula não
 é indicada em pediatria.
@@ -11782,7 +11780,11 @@ dividido a cada 12 h; titular em passos de 0,3 mg/dia por
 resposta/tolerância. Tratamento contínuo, usualmente prolongado.
 [S1]
 Faixas de bula norte-americana para comprimidos 0,6 mg; outras
-concentrações exigem ajuste preciso. Não aplicar teto 2,4 mg aos
+concentrações exigem ajuste preciso (no Brasil, CMED: comprimidos de
+0,5 mg e 1 mg, sem 0,6 mg; 0,3 mg/dia não é obtido exatamente: 1/2
+comprimido de 0,5 mg = 0,25 mg, aproximado e só se sulcado; 1,8 mg =
+3,6 comprimidos de 0,5 mg; arredondar com critério ou avaliar
+formulação manipulada). Não aplicar teto 2,4 mg aos
 menores.
 Pericardite aguda ou
 recorrente
@@ -13137,7 +13139,7 @@ indicação definida
 RESTRIÇÃO / CONTEXTO ESPECÍFICO
 Ataque EV: 1-2 mg/kg, limitado a 10 mg, uma vez. Manutenção: 0,25-0,375 mg/kg/dose a cada 6
 horas, máximo 4 mg/dose; alternativa IWK: 0,17-0,25 mg/kg/dose a cada 4 horas, máximo 4
-mg/dose. [S1] [S2] [R1]
+mg/dose; em qualquer esquema de manutenção, máximo diário 16 mg. [S1] [S2] [R1]
 Individualizar desmame conforme causa e resposta; CHEO descreve 5 dias seguidos de redução
 gradual. Não é esquema para traumatismo craniano indiscriminado.
 Exacerbação grave de asma
@@ -13150,7 +13152,7 @@ Instabilidade grave exige terapia de resgate concomitante.
 Crupe / laringotraqueíte viral
 Crianças
 Crupe leve/moderado com indicação de corticosteroide: 0,15 mg/kg VO, dose única, máximo 12 mg
-(NSW/ACI ECAT). Crupe grave ou com ameaça à vida: 0,6 mg/kg VO, EV ou IM, dose única, máximo
+(NSW/ACI ECAT). Crupe grave: 0,6 mg/kg VO, EV ou IM; crupe com ameaça à vida: 0,6 mg/kg EV ou IM; ambos em dose única, máximo
 12 mg. IWK utiliza 0,6 mg/kg para crupe. [S1] [S4] [R1]
 Reavaliar gravidade e necessidade de adrenalina nebulizada; não repetir automaticamente.
 Meningite bacteriana -
@@ -13665,11 +13667,11 @@ Resumo de Indicações Clínicas:
 Benzodiazepínico clássico de ação rápida e meia-vida longa. Primeira linha no controle agudo do Estado de Mal Epiléptico na emergência, convulsões febris prolongadas, sedação pré-procedimento e espasmos musculares severos (tétano acidental).
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Estado de Mal Epiléptico — Via Intravenosa / Intraóssea (IV/IO)]: 0,2 a 0,3 mg/kg (Máx: 5 mg em < 5 anos e 10 mg em ≥ 5 anos) — Injeção IV lenta em 2 a 3 minutos (taxa ≤ 1-2 mg/min). Pode repetir uma vez após 5 a 10 minutos se convulsão persistir.
-• [Convulsão Aguda sem Acesso Venoso — Via Retal (Retal)]: 0,5 mg/kg (usar a solução injetável com seringa sem agulha ou sonda retal introduzida 3-5 cm) — Máx: 10 mg em < 10 anos e 20 mg em > 10 anos.
+• [Estado de Mal Epiléptico — Via Intravenosa / Intraóssea (IV/IO)]: 0,2 a 0,3 mg/kg (Máx: 5 mg em < 5 anos e 10 mg em ≥ 5 anos) — Injeção IV lenta em 3 a 5 minutos (taxa ≤ 5 mg/min). Pode repetir uma vez após 5 a 10 minutos se convulsão persistir.
+• [Convulsão Aguda sem Acesso Venoso — Via Retal (Retal)]: 0,5 mg/kg (usar a solução injetável com seringa sem agulha ou sonda retal introduzida 3-5 cm) — Máx: 10 mg em 1 mês a 11 anos e 20 mg em ≥ 12 anos.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
-VIA INTRAMUSCULAR: ESTRITAMENTE DESACONSELHADA VIA IM (absorção errática, lenta e dolorosa).; Depressão Respiratória: Alto risco de apneia, depressão respiratória e hipotensão, potencializado por outros sedativos. Dispor de bolsa-válvula-máscara e flumazenil.; Condições: Miastenia gravis e insuficiência respiratória grave.
+VIA INTRAMUSCULAR: ESTRITAMENTE DESACONSELHADA VIA IM (absorção errática, lenta e dolorosa).; Depressão Respiratória: Alto risco de apneia, depressão respiratória e hipotensão, potencializado por outros sedativos. Dispor de bolsa-válvula-máscara. Flumazenil: reservar à reversão de sedação; contraindicado se o benzodiazepínico foi usado para estado de mal epiléptico ou outra condição potencialmente fatal (p.ex., hipertensão intracraniana) e em dependência de benzodiazepínico (pode precipitar convulsões).; Condições: Miastenia gravis, insuficiência respiratória grave, insuficiência hepática grave, hipersensibilidade a benzodiazepínicos e glaucoma de ângulo fechado agudo. Neonatos (≤ 30 dias): evitar a solução injetável (contém álcool benzílico; segurança parenteral não estabelecida; risco de síndrome de gasping em prematuros); usar somente se não houver alternativa.
 
 Status da fonte: DOCUMENTARY_ONLY_REQUIRES_REGIMEN_LEVEL_SOURCE_MAPPING
 
@@ -13970,8 +13972,8 @@ Resumo de Indicações Clínicas:
 Glicosídeo cardíaco inotrópico positivo e cronotrópico negativo (inibidor da bomba Na+/K+-ATPase). Indicado no controle da frequência ventricular em taquiarritmias supraventriculares crônicas (flutter/fibrilação atrial) e suporte inotrópico na insuficiência cardíaca com shunt congênito volumoso.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Dose de Digitalização Rápida (Carga) (VO)]: Prematuros: 20 mcg/kg. Termo a 2 meses: 30 mcg/kg. 2 meses a 2 anos: 40 a 50 mcg/kg. > 2 anos: 30 a 40 mcg/kg. — Administrar 50% da dose de ataque imediatamente, 25% após 6 a 8h e 25% após mais 6 a 8h.
-• [Manutenção Diária (VO)]: Prematuros: 5 mcg/kg/dia. Termo: 8 a 10 mcg/kg/dia. 2 meses a 2 anos: 10 a 12 mcg/kg/dia. > 2 anos: 8 a 10 mcg/kg/dia. — Dividido a cada 12 horas. Nível sérico terapêutico alvo: 0,8 a 2,0 ng/mL.
+• [Dose de Digitalização Rápida (Carga) (VO)]: Prematuros: 20 mcg/kg. Termo a 2 meses: 30 mcg/kg. 2 meses a 2 anos: 40 a 50 mcg/kg. 2 a 5 anos: 30 a 45 mcg/kg. 5 a 10 anos: 20 a 35 mcg/kg. > 10 anos: 10 a 15 mcg/kg. — Administrar 50% da dose de ataque imediatamente, 25% após 6 a 8h e 25% após mais 6 a 8h.
+• [Manutenção Diária (VO)]: Prematuros: 5 mcg/kg/dia. Termo: 8 a 10 mcg/kg/dia. 2 meses a 2 anos: 10 a 12 mcg/kg/dia. 2 a 5 anos: 9,4 a 13,1 mcg/kg/dia. 5 a 10 anos: 5,6 a 11,3 mcg/kg/dia. — Dividido a cada 12 horas (até 10 anos). > 10 anos: 3 a 4,5 mcg/kg/dia, dose única diária. Nível sérico terapêutico alvo: 0,8 a 2,0 ng/mL.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Intoxicação Digitálica: Janela terapêutica extremamente estreita; hipocalemia e hipomagnesemia precipitam arritmias ventriculares fatais.; Condições: Bloqueio AV de 2º ou 3º grau, síndrome de Wolff-Parkinson-White e miocardiopatia hipertrófica obstrutiva.
@@ -14197,7 +14199,7 @@ EV muito lenta, nunca acima de 500 mg/min; pode diluir em SF
 0,9%, SG 5% ou Ringer lactato e administrar imediatamente.
 Monitorar PA; doses >1 g parenteral exigem avaliação específica.
 MONITORIZAÇÃO E PRECAUÇÕES Contraindicada <3 meses ou <5 kg; via EV contraindicada <1
-ano. Suspender e investigar imediatamente febre inexplicada, odinofagia ou ulcerações pela
+ano ou <9 kg. Suspender e investigar imediatamente febre inexplicada, odinofagia ou ulcerações pela
 possibilidade de agranulocitose. Via parenteral aumenta risco de hipotensão e anafilaxia.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 25)
 Alívio de febre e dor aguda leve a moderada de diversas etiologias.
@@ -14221,14 +14223,14 @@ Apresentações descritas (verificação individual pendente):
 Gotas 500 mg/mL (1 gota = 25 mg); Solução oral 50 mg/mL (250 mg/5 mL); Comprimidos 500 mg e 1 g; Supositórios 300 mg; Solução injetável 500 mg/mL (ampolas 2 mL = 1 g)
 
 Resumo de Indicações Clínicas:
-Analgésico, antipirético e espasmolítico não opioide derivado pirazolônico padrão-ouro na pediatria brasileira. Primeira linha no controle da febre e dor aguda de intensidade leve a moderada na emergência e ambulatório.
+Analgésico, antipirético e espasmolítico não opioide derivado pirazolônico amplamente utilizado na pediatria brasileira; uma das opções (junto com paracetamol e ibuprofeno) no controle da febre e dor aguda de intensidade leve a moderada na emergência e ambulatório.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Dor e Febre — Via Oral (VO)]: 10 a 25 mg/kg/dose (Dose padrão mais utilizada: 20 a 25 mg/kg/dose ou 1 gota/kg/dose da formulação 500 mg/mL) — A cada 6 horas (ou de 6/6h se necessário; Máx: 100 mg/kg/dia ou 4 g/dia).
-• [Via Intravenosa / Intramuscular na Emergência (IV/IM)]: 15 a 25 mg/kg/dose (Máx: 1 g a 2 g por dose) — Infundir em pelo menos 15 a 30 minutos diluído em SF0,9% ou SG5% (nunca em bolus rápido pelo risco de hipotensão severa).
+• [Dor e Febre — Via Oral (VO)]: 8 a 16 mg/kg/dose (febre: 10 mg/kg/dose; 1 gota = 25 mg da formulação 500 mg/mL; a regra tradicional de 1 gota/kg pode superdosar - não exceder a dose única máxima da faixa de peso da bula) — A cada 6-8 horas, no máximo 4 doses em 24 horas (Máx: 64 mg/kg/dia, sem ultrapassar o máximo diário da faixa de peso da bula; 4 g/dia é o teto do adulto).
+• [Via Intravenosa / Intramuscular na Emergência (IV/IM)]: 8 a 16 mg/kg/dose, dentro da faixa de peso da bula (ver esquema parenteral acima; dose única >1 g exige avaliação específica; máx. 4 doses em 24 horas; IV somente se >=1 ano e >=9 kg, 3-11 meses apenas IM) — Infundir em pelo menos 15 a 30 minutos diluído em SF0,9% ou SG5%, sem exceder 500 mg/min (nunca em bolus rápido pelo risco de hipotensão severa).
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
-Idade: Contraindicado para menores de 3 meses ou peso < 5 kg.; Condições: Hipersensibilidade a pirazolonas, deficiência congênita de G6PD (risco de crise hemolítica), porfiria hepática aguda e histórico de agranulocitose.; Via IV Rápida: A injeção IV rápida direta pode causar hipotensão arterial súbita e choque anafilactoide.
+Idade: Contraindicado para menores de 3 meses ou peso < 5 kg.; Condições: Hipersensibilidade a pirazolonas, deficiência congênita de G6PD (risco de crise hemolítica), porfiria hepática aguda, histórico de agranulocitose, função da medula óssea prejudicada ou doença hematopoiética, broncoespasmo/reação anafilactoide prévia a outros analgésicos/AINEs e, na via parenteral, hipotensão ou instabilidade hemodinâmica; via IV contraindicada <1 ano ou <9 kg.; Via IV Rápida: A injeção IV rápida direta pode causar hipotensão arterial súbita e choque anafilactoide.
 
 Status da fonte: DOCUMENTARY_ONLY_REQUIRES_REGIMEN_LEVEL_SOURCE_MAPPING
 
@@ -14288,7 +14290,7 @@ SF0,9%/SG5% permitidos, administração imediata e sem outros injetáveis juntos
 IV: cabeçalho acima de1ano, texto exclui menores de1ano. Limite exato em1ano requer ressalva; tabela exclui IV5–8kg. Idade isolada não basta. [D; p2 e p8]
 Bula usa faixas de peso/volume e até4administrações/dia, não fixa10/15mg/kg a cada6–8h. Doses parenterais>1g exigem consideração cuidadosa. [D; p8 posologia]
 20/25mg/kg, intervalo6h, limite4g/dia e recorte1–<18anos permanecem atribuídos ao arquivo original, sem confirmação independente nesta revisão. [H; anexoA não recuperado]
-Referência documental contextual: 20 mg/kg IV 6/6h (Dor aguda hospitalar; HUAP2025). Indicação: Dor aguda hospitalar, HUAP 2025; pode exceder tabela de peso da bula.
+Referência documental contextual: 20 mg/kg IV 6/6h (Dor aguda hospitalar; HUAP2025) - off label: pode exceder a tabela de peso da bula Hypofarma em várias faixas (ex.: 30 kg = 600 mg vs máx. 500 mg/dose) e supera o limite de 16 mg/kg/dose (64 mg/kg/dia) de EMA/SBP; o anexo A do HUAP cita 15-25 mg/kg/dose VO ou EV a cada 4-6 h, máx. 4 g/dia. Indicação: Dor aguda hospitalar, HUAP 2025; pode exceder tabela de peso da bula.
 Idade mínima: 1 anos (inclusive); Idade máxima: 18 anos (exclusive). Vias deste ramo: IV.
 Somente ramo injetável Hypofarma 500 mg/mL. Separar 10/15 mg/kg, tabela da bula e 20/25 mg/kg de dor aguda hospitalar HUAP; não extrapolar a febre ou converter em gotas.
 Dose de referência registrada: 20 mg/kg/administration; componente: named active ingredient/formulation. Não equivale a dose individual.
@@ -14310,7 +14312,7 @@ SF0,9%/SG5% permitidos, administração imediata e sem outros injetáveis juntos
 IV: cabeçalho acima de1ano, texto exclui menores de1ano. Limite exato em1ano requer ressalva; tabela exclui IV5–8kg. Idade isolada não basta. [D; p2 e p8]
 Bula usa faixas de peso/volume e até4administrações/dia, não fixa10/15mg/kg a cada6–8h. Doses parenterais>1g exigem consideração cuidadosa. [D; p8 posologia]
 20/25mg/kg, intervalo6h, limite4g/dia e recorte1–<18anos permanecem atribuídos ao arquivo original, sem confirmação independente nesta revisão. [H; anexoA não recuperado]
-Referência documental contextual: 25 mg/kg IV 6/6h (Dor aguda hospitalar; HUAP2025). Indicação: Dor aguda hospitalar, HUAP 2025; pode exceder tabela de peso da bula.
+Referência documental contextual: 25 mg/kg IV 6/6h (Dor aguda hospitalar; HUAP2025) - off label: pode exceder em até cerca de 50% a tabela de peso da bula Hypofarma (ex.: 15 kg = 375 mg vs máx. 250 mg) e supera o limite de 16 mg/kg/dose (EMA/SBP); 4 doses = 100 mg/kg/dia vs 64 mg/kg/dia; corresponde ao limite superior da faixa de 15-25 mg/kg/dose do anexo A do HUAP (VO ou EV, a cada 4-6 h, máx. 4 g/dia). Indicação: Dor aguda hospitalar, HUAP 2025; pode exceder tabela de peso da bula.
 Idade mínima: 1 anos (inclusive); Idade máxima: 18 anos (exclusive). Vias deste ramo: IV.
 Somente ramo injetável Hypofarma 500 mg/mL. Separar 10/15 mg/kg, tabela da bula e 20/25 mg/kg de dor aguda hospitalar HUAP; não extrapolar a febre ou converter em gotas.
 Dose de referência registrada: 25 mg/kg/administration; componente: named active ingredient/formulation. Não equivale a dose individual.
@@ -15201,8 +15203,8 @@ Resumo de Indicações Clínicas:
 Heparina de baixo peso molecular (HBPM) com potente atividade anti-fator Xa. Primeira linha na prevenção e tratamento do Tromboembolismo Venoso (TEV), trombose associada a cateter venoso central e trombose intracardíaca em pediatria.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Tratamento de Tromboembolismo Venoso (SC)]: Lactentes < 2 meses: 1,5 mg/kg/dose a cada 12 horas. Crianças ≥ 2 meses a 18 anos: 1,0 mg/kg/dose a cada 12 horas. — Injeção subcutânea profunda. Titular a dose para atingir atividade anti-Xa entre 0,5 e 1,0 UI/mL (coletar 4 horas após a 2ª ou 3ª dose).
-• [Profilaxia de TEV em Pacientes de Alto Risco (SC)]: Lactentes < 2 meses: 0,75 mg/kg/dose a cada 12h. Crianças ≥ 2 meses: 0,5 mg/kg/dose a cada 12h (Alvo anti-Xa: 0,2 a 0,4 UI/mL). — Subcutânea
+• [Tratamento de Tromboembolismo Venoso (SC)]: Lactentes < 2 meses: 1,75 mg/kg/dose a cada 12 horas (como no bloco principal, CHEO 2026; o CHEST 2012 cita 1,5 mg/kg/dose; off label). Crianças ≥ 2 meses a 18 anos: 1,0 mg/kg/dose a cada 12 horas. — Injeção subcutânea profunda. Titular a dose para atingir atividade anti-Xa entre 0,5 e 1,0 UI/mL (coletar 4 horas após a 2ª ou 3ª dose).
+• [Profilaxia de TEV em Pacientes de Alto Risco (SC)]: Lactentes < 2 meses: 0,75 mg/kg/dose a cada 12h. Crianças ≥ 2 meses: 0,5 mg/kg/dose a cada 12h (máx. 30 mg/dose) (Alvo anti-Xa: 0,2 a 0,4 UI/mL). — Subcutânea
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Condições: Sangramento ativo maior, histórico de Trombocitopenia Induzida por Heparina (HIT) e coagulopatia grave.; Procedimentos: Suspender 24 horas antes de anestesia neuraxial (raqui/peridural) ou punção lombar.
@@ -16217,7 +16219,7 @@ Resumo de Indicações Clínicas:
 Antiepiléptico bloqueador de canais de sódio dependentes de voltagem de ação prolongada. Primeira linha de segunda etapa no tratamento do Estado de Mal Epiléptico Pediátrico refratário a benzodiazepínicos e profilaxia de convulsões pós-trauma cranioencefálico.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Estado de Mal Epiléptico — Dose de Ataque (IV/IO)]: 15 a 20 mg/kg (Máx: 1000 a 1500 mg) — Infundir em SF0,9% puro (NUNCA em SG5% por precipitação imediata) em velocidade máxima de 1 mg/kg/minuto ou ≤ 50 mg/min sob monitorização contínua de ECG e PA.
+• [Estado de Mal Epiléptico — Dose de Ataque (IV/IO)]: 15 a 20 mg/kg (Máx: 1000 a 1500 mg) — Infundir em SF0,9% puro (NUNCA em SG5% por precipitação imediata) em velocidade máxima de 1 mg/kg/minuto e nunca > 50 mg/min (vale o limite mais lento) sob monitorização contínua de ECG e PA.
 • [Dose de Manutenção (VO/IV)]: Lactentes e Crianças: 5 a 8 mg/kg/dia dividido a cada 8 a 12 horas. Adolescentes: 4 a 6 mg/kg/dia. — Nível sérico terapêutico: 10 a 20 mcg/mL.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
@@ -16265,7 +16267,7 @@ contínuo, com retirada gradual. Alternativa de manutenção EV CHEO:
 lactentes 5-6 mg/kg/dia; 1-5 anos 6-8; 5-12 anos 4-6; > 12 anos 1-3
 mg/kg/dia, em 1-2 doses, com níveis e resposta. [S1] [S2] [R1]
 MONITORIZAÇÃO E PRECAUÇÕES Depressão respiratória/hipotensão, sobretudo após
-benzodiazepínico; ECG/PA/SpO 2 no ataque. Ajustar em disfunção hepática/renal e avaliar interações
+benzodiazepínico; ECG/PA/SpO 2 no ataque. Contraindicado em porfiria e em hipersensibilidade a barbitúricos (a bula também contraindica em insuficiência respiratória, hepática ou renal graves). Ajustar em disfunção hepática/renal e avaliar interações
 indutoras. Conferir álcool benzílico/propilenoglicol da ampola no RN. A bula brasileira de fenobarbital
 sódico injetável consultada declara 100 mg/mL de sal = 91,35 mg/mL de base e contraindica esse
 produto específico em recém-nascidos, crianças do sexo feminino e mulheres com potencial para
@@ -16396,7 +16398,7 @@ Crianças/adolescentes
 necessários 1-2 mcg/kg. Administrar em 3-5 min; reavaliar e repetir
 pequenas doses após 2-5 min. Doses 2-4 mcg/kg são descritas para
 analgesia mais intensa com suporte ventilatório; não aplicar
-rapidamente. Duração: durante dor/procedimento. [S1]
+rapidamente. Duração: durante dor/procedimento. [S1] Bula BR do injetável (Fentanest): uso adulto e pediátrico a partir de 2 anos, no período anestésico/pós-operatório imediato; segurança não estabelecida em <2 anos. Uso em <2 anos, analgesia para intubação/procedimentos fora do período anestésico e infusão contínua em UTI = off label. Neonatos: seguir protocolo neonatal próprio.
 Para anestesia cirúrgica profunda, esquema individual do
 anestesiologista; fentanila não garante hipnose.
 Analgesia/sedação
@@ -16810,8 +16812,13 @@ exposição prévia
 800 mg/dia. Candidemia sem foco metastático: tratar ≥ 14 dias após
 primeira cultura negativa e resolução dos sinais; focos profundos
 prolongam tratamento. [S2]
-Neonatos: IDSA usa 12 mg/kg a cada 24 h; não importar intervalo
-neonatal antigo de 48-72 h para doença invasiva.
+Neonatos, dois esquemas distintos que não se misturam: (1) IDSA para
+doença invasiva: 12 mg/kg a cada 24 h (alternativa à anfotericina B, se
+sem profilaxia prévia com fluconazol); (2) bula ANVISA/AEP: mesma dose em
+mg/kg a cada 72 h (0-14 dias) e a cada 48 h (15-28 dias). Não aplicar os
+intervalos da bula ao esquema IDSA (reduziria a dose diária a um terço);
+escolha do esquema e ajuste por idade pós-natal e função renal exigem
+validação neonatal especializada.
 Criptococose -
 consolidação após
 indução
@@ -16950,12 +16957,12 @@ Apresentações descritas (verificação individual pendente):
 Pó para suspensão oral 50 mg/5 mL e 200 mg/5 mL; Cápsulas 50 mg, 100 mg e 150 mg; Solução para infusão IV 2 mg/mL (bolsa 100 mL = 200 mg)
 
 Resumo de Indicações Clínicas:
-Antifúngico triazólico de excelente biodisponibilidade oral e penetração no SNC. Primeira linha no tratamento e profilaxia de Candidíase orofaríngea e esofágica, candidemia por Candida albicans, meningite criptocócica (consolidação/manutenção) e profilaxia antifúngica em prematuros de extremo baixo peso (< 1000g).
+Antifúngico triazólico de excelente biodisponibilidade oral e penetração no SNC. Primeira linha no tratamento e profilaxia de Candidíase orofaríngea e esofágica; na candidemia por Candida albicans, a equinocandina é a terapia inicial preferida e o fluconazol é alternativa em paciente estável, sem exposição prévia a azólico e com baixa probabilidade de resistência (em neonatos, alternativa à anfotericina B desoxicolato se não houve profilaxia prévia com fluconazol); na meningite criptocócica, usado na consolidação/manutenção após indução com anfotericina B + flucitosina; e na profilaxia antifúngica em prematuros de extremo baixo peso (< 1000g).
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Candidíase Orofaríngea (VO)]: Ataque: 6 mg/kg no dia 1. Manutenção: 3 mg/kg/dia em dose única por 7 a 14 dias (Máx: 100 mg/dia). — Dose única diária
+• [Candidíase Orofaríngea (VO)]: Ataque: 6 mg/kg no dia 1. Manutenção: 3 mg/kg/dia em dose única por pelo menos 14 dias (Máx: 200 mg/dia). — Dose única diária
 • [Candidíase Sistêmica / Candidemia (IV/VO)]: Ataque: 12 mg/kg no dia 1. Manutenção: 6 a 12 mg/kg/dia em dose única diária (Máx: 600 a 800 mg/dia). — Infusão IV lenta em 1 a 2 horas.
-• [Profilaxia em Prematuros Extremos < 1000g (IV/VO)]: 3 a 6 mg/kg/dose duas vezes por semana (a cada 72h) por 4 a 6 semanas — Reduz drasticamente candidíase invasiva neonatal.
+• [Profilaxia em Prematuros Extremos < 1000g (IV/VO)]: 3 a 6 mg/kg/dose duas vezes por semana (a cada 72h) por 6 semanas — Reduz drasticamente candidíase invasiva neonatal.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Interações Medicamentosas: Inibidor moderado do CYP2C9 e CYP3A4; aumenta níveis séricos de fenitoína, ciclosporina, tacrolimo e varfarina.; Resistência: Candida krusei é intrinsecamente resistente e Candida glabrata tem sensibilidade reduzida dose-dependente.
@@ -17563,7 +17570,7 @@ Resumo de Indicações Clínicas:
 Diurético de alça inibidor do cotransportador Na+/K+/2Cl- no ramo ascendente espesso da alça de Henle com potente efeito natriurético e venodilatador rápido. Primeira linha no Edema Agudo de Pulmão, sobrecarga hídrica, insuficiência cardíaca congestiva, síndrome nefrótica e insuficiência renal oligúrica.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Edema / Sobrecarga Hídrica / Insuficiência Cardíaca (IV/IM)]: 0,5 a 2 mg/kg/dose em bolus lento em 2 a 5 minutos (Dose máxima inicial: 2 mg/kg; pode titular até 4 a 6 mg/kg/dia em refratariedade ou infusão contínua de 0,1 a 0,4 mg/kg/hora em UTI). — Início de ação em 5 minutos; duração de 2 horas.
+• [Edema / Sobrecarga Hídrica / Insuficiência Cardíaca (IV/IM)]: 0,5 a 2 mg/kg/dose em injeção ou infusão EV lenta, sem exceder 0,5 mg/kg/min nem 4 mg/min (Dose máxima inicial: 2 mg/kg; pode titular até 4 a 6 mg/kg/dose em refratariedade (teto excepcional de 6 mg/kg/dose e 200 mg/dose, como no bloco principal) ou infusão contínua de 0,1 a 0,4 mg/kg/hora em UTI). — Início de ação em 5 minutos; duração de 2 horas.
 • [Tratamento Oral de Manutenção (VO)]: 1 a 2 mg/kg/dia em dose única matinal ou dividida a cada 12 horas (Máx: 6 mg/kg/dia ou 40 a 80 mg/dia) — Administrar pela manhã
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
@@ -17993,8 +18000,10 @@ AEP descreve necessidades: < 1 ano 7-9 mg/kg/min; 2-6 anos 6-7;
 titular; RN/prematuros usam protocolo neonatal. mL/h = taxa
 (mg/kg/min) × peso × 60 ÷ concentração (mg/mL). SG 10%=100
 mg/mL. De 1 a < 2 anos, a tabela AEP não oferece faixa explícita: o
-protocolo PCH orienta iniciar SG 10% à taxa hídrica de manutenção e
-titular pela glicemia, com ajuste endocrinológico se necessário. [S2,
+protocolo PCH orienta iniciar NaCl 0,9% + SG 5% em taxa hídrica de
+manutenção até normoglicemia (> 5 mmol/L, ~90 mg/dL, por 2 h) e titular
+pela glicemia; concentrações > 10% podem ser necessárias (ex.:
+hiperinsulinismo), preferencialmente por acesso central. [S2,
 S1]
 Nutrição parenteral
 e veículo de diluição
@@ -18272,8 +18281,8 @@ Resumo de Indicações Clínicas:
 Sal orgânico de cálcio parenteral padrão para uso em veias periféricas na pediatria. Primeira linha para Estabilização de Membrana Miocárdica na Hipercalemia Grave com alterações eletrocardiográficas (ondas T apiculadas, alargamento de QRS), hipocalcemia aguda sintomática (tetania, convulsões, laringoespasmo), hipermagnesemia e ressuscitação na parada cardíaca por hipocalcemia.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Hipercalemia Grave com Alteração no ECG (IV/IO)]: 0,5 a 1,0 mL/kg de Gluconato de Cálcio 10% (50 a 100 mg/kg; Máx: 10 a 20 mL = 1 a 2 g) infundido em 3 a 5 minutos sob monitorização cardíaca contínua. — Efeito cardioprotetor imediato em 1 a 3 minutos com duração de 30 a 60 minutos; pode repetir após 5 a 10 min se alterações no ECG persistirem.
-• [Hipocalcemia Sintomática / Tetania / Convulsão (IV)]: 1 a 2 mL/kg (100 a 200 mg/kg) infundido lentamente em 10 a 20 minutos diluído a 50% em SG5% ou SF0,9%. — Seguido de infusão contínua de 200 a 800 mg/kg/dia se necessário.
+• [Hipercalemia Grave com Alteração no ECG (IV/IO)]: 0,5 a 1,0 mL/kg de Gluconato de Cálcio 10% (50 a 100 mg/kg; Máx: 10 a 20 mL = 1 a 2 g) infundido em 5 a 15 minutos (2 a 5 minutos apenas se o paciente estiver instável), respeitando a velocidade máxima da bula do produto utilizado (bula Fresenius: 5 mL/min), sob monitorização cardíaca contínua. — Efeito cardioprotetor imediato em 1 a 3 minutos com duração de 30 a 60 minutos; pode repetir após 5 a 10 min se alterações no ECG persistirem.
+• [Hipocalcemia Sintomática / Tetania / Convulsão (IV)]: 0,3 a 0,6 mL/kg (30 a 60 mg/kg = 0,07-0,14 mmol/kg de Ca elementar; referência 0,5 mL/kg; máx 4,4 mmol de Ca elementar, cerca de 19-20 mL) infundido lentamente em no mínimo 15 min e sem exceder 100 mg de gluconato/min (2 g = no mínimo 20 min), diluído a 50% em SG5% ou SF0,9%. — Seguido de infusão contínua de 200 a 800 mg/kg/dia se necessário.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 INTOXICAÇÃO DIGITÁLICA: Contraindicado na vigência de toxicidade digitálica (pode precipitar arritmias ventriculares fatais em 'pedra de cálcio').; Incompatibilidades: Incompatível e insolúvel com soluções contendo bicarbonato de sódio ou fosfatos (precipitação imediata de sais insolúveis).
@@ -19268,7 +19277,7 @@ Febre e dor
 leve/moderada
 ≥ 6 meses
 5-10 mg/kg/dose VO a cada 6-8 h se necessário; máximo 40
-mg/kg/dia, sem exceder 400 mg/dose para analgesia habitual. Usar
+mg/kg/dia, sem exceder 400 mg/dose para analgesia habitual (bula BR de gotas, <12 anos: máx. 200 mg/dose e 800 mg/dia; doses acima desses limites nessa faixa etária são off label). Usar
 menor duração eficaz, reavaliando febre persistente e causa da dor.
 [S1]
 Fechamento de
@@ -19280,10 +19289,10 @@ Ciclo de 3 doses EV, a cada 24 h: 10 mg/kg na primeira, depois 5
 mg/kg na segunda e terceira. Infundir cada dose em 15 min; iniciar
 após primeiras 6 h de vida quando indicado. Segundo ciclo pode ser
 considerado se persistência/reabertura após reavaliação. [S1]
-Não intercambiar mg de ibuprofeno com massa do sal; suspender
+Bula BR (Neoprofen): 500-1.000 g e IG ≤30 sem; fora disso, off label. NÃO usar Proinflac (adulto/>12 anos). Não intercambiar mg de ibuprofeno com massa do sal; suspender
 doses subsequentes se oligúria/anúria.
-MONITORIZAÇÃO E PRECAUÇÕES Evitar desidratação, insuficiência renal, sangramento, NEC e
-cardiopatia ducto-dependente. Não associar outros AINE. Monitorar diurese, plaquetas, creatinina e
+MONITORIZAÇÃO E PRECAUÇÕES Evitar desidratação, insuficiência renal, sangramento, trombocitopenia/coagulopatia, infecção grave não tratada, hiperbilirrubinemia acentuada, NEC e
+cardiopatia ducto-dependente. Via oral: contraindicado em suspeita de dengue, em hipersensibilidade a AAS/AINE (asma, urticária, angioedema) e em úlcera/sangramento GI ativo. Não associar outros AINE. Monitorar diurese, plaquetas, creatinina e
 ecocardiograma no prematuro.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 33)
 Febre e dor leve a moderada (gotas e suspensões contraindicadas abaixo de 6 meses); fechamento do
@@ -20857,7 +20866,7 @@ Esquemas Posológicos Pediátricos Detalhados (Indicação • População • D
 • [Hipercalemia Grave com Alteração no ECG (IV)]: 0,1 UI/kg de insulina regular combinada com 0,5 g/kg de glicose (2 mL/kg de SG25% ou 5 mL/kg de SG10%) infundido em 30 minutos. — Desloca o potássio para o intracelular.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
-CAD sem Reposição Prévia de Potássio: NUNCA iniciar insulina se potássio sérico < 3,3 a 3,5 mEq/L (risco fatal de arritmias cardíacas por hipocalemia profunda).; Bolus IV na CAD: Contraindicado o bolus IV inicial na CAD pediátrica pelo risco de edema cerebral fulminante.
+CAD sem Reposição Prévia de Potássio: NUNCA iniciar insulina se potássio sérico < 3,0 mEq/L (repor K+ antes; risco fatal de arritmias cardíacas por hipocalemia profunda).; Bolus IV na CAD: Contraindicado o bolus IV inicial na CAD pediátrica pelo risco de edema cerebral fulminante.
 
 Status da fonte: DOCUMENTARY_ONLY_REQUIRES_REGIMEN_LEVEL_SOURCE_MAPPING
 
@@ -22546,11 +22555,11 @@ Apresentações descritas (verificação individual pendente):
 Solução oral 100 mg/mL; Comprimidos revestidos 250 mg, 500 mg, 750 mg e 1000 mg; Solução para infusão IV 100 mg/mL (frasco-ampola 5 mL = 500 mg)
 
 Resumo de Indicações Clínicas:
-Antiepiléptico de amplo espectro que se liga seletivamente à proteína da vesícula sináptica SV2A. Primeira linha moderna no tratamento do Estado de Mal Epiléptico Pediátrico refratário a benzodiazepínicos, crises focais e generalizadas da infância e convulsões neonatais.
+Antiepiléptico de amplo espectro que se liga seletivamente à proteína da vesícula sináptica SV2A. Opção de segunda linha (off label) no Estado de Mal Epiléptico Pediátrico refratário a benzodiazepínicos; usado em crises focais e generalizadas da infância. Em convulsões neonatais é off label e de segunda linha (primeira linha: fenobarbital); esta ficha não traz esquema neonatal.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Estado de Mal Epiléptico — Dose de Ataque (IV)]: 40 a 60 mg/kg (Máx: 3000 a 4500 mg) administrado em infusão intravenosa rápida em 5 a 10 minutos. — Excelente estabilidade hemodinâmica (sem risco de hipotensão ou arritmias).
-• [Epilepsia Pediátrica — Manutenção (VO/IV)]: Inicial: 20 mg/kg/dia dividido a cada 12 horas. Aumentar a cada 1 a 2 semanas em 10 a 20 mg/kg/dia até dose de manutenção de 40 a 60 mg/kg/dia (Máx: 3000 mg/dia). — Dividido a cada 12 horas.
+• [Estado de Mal Epiléptico — Dose de Ataque (IV) — off label, fora de bula]: 40 a 60 mg/kg (Máx: 3000 a 4500 mg) administrado, diluído em diluente compatível, em infusão intravenosa rápida em 5 a 10 minutos (2ª linha após benzodiazepínico). — Excelente estabilidade hemodinâmica (sem risco de hipotensão ou arritmias).
+• [Epilepsia Pediátrica ≥6 meses — Manutenção (VO/IV)]: Inicial: 20 mg/kg/dia dividido a cada 12 horas. Aumentar a cada 2 semanas em 10 a 20 mg/kg/dia até dose de manutenção de 40 a 60 mg/kg/dia (6 meses-<4 anos: máx 50 mg/kg/dia; ≥4 anos: máx 60 mg/kg/dia; Máx: 3000 mg/dia). Lactentes 1-<6 meses: usar o esquema do bloco principal (inicial 14 mg/kg/dia; máx 42 mg/kg/dia). — Dividido a cada 12 horas.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Efeitos Psiquiátricos e Comportamentais: Pode desencadear irritabilidade intensa, agressividade, alterações de humor e psicose em crianças com transtornos neuropsiquiátricos prévios.; Ajustes: Reduzir dose em insuficiência renal (eliminação 66% inalterada na urina).
@@ -23685,13 +23694,13 @@ COMPLEMENTO DOCUMENTAL ANVISA — 25/10/2026
 Identidade nominal exata; fonte documental com mapeamento por regime pendente. Não autoriza cálculo, prescrição, seleção de apresentação ou extrapolação de dose/diluição. Não substitui revisões clínicas específicas.
 
 Apresentações descritas (verificação individual pendente):
-Comprimidos 1 mg e 2 mg; Solução injetável 2 mg/mL e 4 mg/mL (ampolas 1 mL)
+Comprimidos 1 mg e 2 mg; Solução injetável 2 mg/mL e 4 mg/mL (ampolas 1 mL) - apresentação injetável não listada na CMED desta ficha (somente comprimidos); confirmar disponibilidade local
 
 Resumo de Indicações Clínicas:
-Benzodiazepínico potente de ação intermediária com alta afinidade GABA-A e longa permanência no SNC (baixa redistribuição lipídica). Primeira linha padrão-ouro internacional no tratamento agudo do Estado de Mal Epiléptico na emergência pediátrica.
+Benzodiazepínico potente de ação intermediária com alta afinidade GABA-A e longa permanência no SNC (baixa redistribuição lipídica). Uma das opções de primeira linha (benzodiazepínico EV, com eficácia sem diferença estabelecida em relação ao diazepam EV; alternativa ao midazolam IM) no tratamento agudo do Estado de Mal Epiléptico na emergência pediátrica.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Estado de Mal Epiléptico — Primeira Linha (IV/IO)]: 0,1 mg/kg (Máx: 4 mg por dose) administrado em injeção intravenosa lenta em 2 minutos. — Pode repetir uma segunda dose de 0,05 a 0,1 mg/kg em 5 a 10 minutos se as convulsões persistirem.
+• [Estado de Mal Epiléptico — Primeira Linha (IV/IO) — off label; apresentação injetável não consta na CMED desta ficha (somente comprimidos), confirmar disponibilidade]: 0,1 mg/kg (Máx: 4 mg por dose) administrado em injeção intravenosa lenta em 2 minutos. — Pode repetir uma segunda dose de 0,05 a 0,1 mg/kg em 5 a 10 minutos se as convulsões persistirem.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Depressão Respiratória: Risco de apneia, depressão respiratória e hipotensão; manter suporte ventilatório disponível.; Diluente: As formulações injetáveis contêm propilenoglicol (risco de acidose lática e hiperosmolaridade em infusões contínuas prolongadas).
@@ -25036,16 +25045,18 @@ Crianças/adolescentes
 VO 0,25-0,75 mg/kg dose única (máximo 20 mg)20-30 min antes; IN
 0,2-0,5 mg/kg (máximo 10 mg,5 mg/narina ) 10-20 min antes; IM
 0,1-0,15 mg/kg (máximo 10 mg)30-60 min antes. EV 6 meses-5 anos
-0,05-0,1 mg/kg, titular lentamente até total 0,6 mg/kg ou 6 mg; 6-12
-anos 0,025-0,05 mg/kg, até 0,4 mg/kg ou 10 mg; ≥12 anos 0,5-2,5
+0,05-0,1 mg/kg, titular lentamente até total 0,6 mg/kg, sem exceder 6 mg; 6-12
+anos 0,025-0,05 mg/kg, até 0,4 mg/kg, sem exceder 10 mg; ≥12 anos 0,5-2,5
 mg, até 10 mg total. [S1, S2]
 Sedação contínua
 em UTI/ventilação
 mecânica
 >1 mês; RN exigem
 esquema específico
-EV carga 0,05-0,1 mg/kg, seguida 0,05-0,1 mg/kg/HORA; titular em
-incrementos 0,05-0,1 mg/kg/h, faixa usual 0,05-0,5 mg/kg/h.
+EV carga 0,05-0,1 mg/kg em no mínimo 2-3 min (nunca em bolus rápido),
+seguida 0,05-0,1 mg/kg/HORA; titular em incrementos de cerca de 25% da
+taxa, faixa usual 0,05-0,2 mg/kg/h (bula: início 0,06-0,12 mg/kg/h);
+taxas maiores são exceção e exigem reavaliação (acúmulo/tolerância).
 Reavaliar diariamente; retirar gradualmente após exposição
 prolongada. [S1]
 Crise convulsiva
@@ -25611,10 +25622,10 @@ crise falciforme
 Crianças sem
 tolerância prévia a
 opioide
-VO: <6 meses 0,1 mg/kg/dose 4/4 h; ≥6 meses 0,2 mg/kg/dose
+VO (off label <2 anos): <6 meses 0,1 mg/kg/dose 4/4 h; ≥6 meses 0,2 mg/kg/dose
 3/3-4/4 h, titular na faixa 0,2-0,5 mg/kg, máximo inicial 10 mg/dose.
-EV: <6 meses 0,05 mg/kg 4/4 h; ≥6 meses 0,05-0,1 mg/kg 3/3-4/4 h,
-faixa até 0,2 mg/kg, máximo inicial 2 mg/dose. Reavaliar após cada
+EV (off label; bula Dimorf EV só adulto, contraindicada <18 anos): <6 meses 0,05 mg/kg 4/4 h; ≥6 meses 0,05-0,1 mg/kg 3/3-4/4 h,
+faixa até 0,2 mg/kg, máximo inicial 2 mg/dose; EV lento (≥5 min), diluído. Reavaliar após cada
 dose; reduzir/suspender conforme dor. [S1]
 Dor intensa - infusão
 contínua em UTI
@@ -25632,14 +25643,14 @@ RESTRIÇÃO / CONTEXTO
 ESPECÍFICO
 Titular morfina de liberação imediata à analgesia e efeitos adversos;
 pacientes tolerantes podem precisar doses maiores que iniciais
-acima. Após dose diária estável, formulação prolongada pode usar
+acima. Após dose diária estável, formulação prolongada (off label: bula BR só para adultos, contraindicada <18 anos; engolir com líquido; se houver dificuldade, a bula admite abrir a cápsula e misturar os microgrânulos a alimento pastoso, sem mastigar, quebrar nem triturar) pode usar
 0,2-0,8 mg/kg/dose 12/12 h como faixa inicial descrita, com ajustes
 30-50%; não há teto universal em paciente tolerante. [S2]
 Não iniciar automaticamente dose alta de liberação prolongada em
 criança sem tolerância; plano de resgate individual.
 MONITORIZAÇÃO E PRECAUÇÕES Monitorar FR, sedação, PA, náuseas/constipação; suporte e
 naloxona disponíveis. Insuficiência renal acumula metabólitos ativos: reduzir/espaciar ou escolher
-alternativa. Não confundir mg com mcg nem EV com VO.
+alternativa. Contraindicada em hipersensibilidade, depressão respiratória significativa em paciente não intubado, íleo paralítico ou obstrução intestinal; evitar/cautela em HIC e TCE (a bula BR contraindica) e em hipotensão/choque; oximetria em lactentes <6 meses e durante infusão contínua ou se alto risco de depressão respiratória. Não confundir mg com mcg nem EV com VO.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 40)
 Analgesia opioide para dor intensa aguda (trauma, queimaduras, crise falciforme), dor oncológica e
 cuidados paliativos pediátricos.
@@ -27889,8 +27900,7 @@ náuseas/vômitos
 ≥6 meses
 Alternativas: 0,15 mg/kg/dose EV antes da quimioterapia, repetir 4 e 8 h depois (máximo 8
 mg/dose); OU 5 mg/m² EV uma vez, máximo 8 mg. Após 12 h: VO ≤10 kg 2 mg 12/12 h;
->10 kg 4 mg 12/12 h, até 5 dias. Pela superfície: <0,6 m²2 mg 12/12 h; ≥0,6 m²4 mg 12/12
-h. Não combinar cálculos de peso e superfície.
+>10 kg 4 mg 12/12 h, até 5 dias. Pela superfície: <0,6 m²2 mg 12/12 h; ≥0,6 a ≤1,2 m² 4 mg 12/12 h; >1,2 m² 8 mg 12/12 h. Não combinar cálculos de peso e superfície.
 [S1]
 Náuseas/vômitos
 pós-operatórios
@@ -28018,9 +28028,9 @@ uma vez/dia por 10 dias (MS).3-11 meses: 3 mg/kg VO uma vez/dia.
 <3 meses: reservar situação crítica; profilaxia em prematuro exige
 especialista, pois não se deve copiar a tabela de tratamento. [S1,
 S2]
-CDC usa 7 dias após última exposição. A dose de 3,5 mg/kg do
-lactente 9-11 meses pertence ao tratamento AAP, não é
-automaticamente dose profilática.
+CDC usa 7 dias após última exposição. A dose de 3,5 mg/kg/dose
+(2 vezes ao dia) do lactente 9-11 meses pertence ao tratamento AAP
+(CDC/FDA: 3 mg/kg/dose), não é automaticamente dose profilática.
 MONITORIZAÇÃO E PRECAUÇÕES Ajustar na disfunção renal; os esquemas fixos adultos de
 depuração não podem ser transpostos automaticamente ao neonato. Vigiar vômitos e reações
 cutâneas graves.
@@ -28648,9 +28658,9 @@ ambiente hospitalar
 - alternativa de
 curto prazo
 >1 mês
-VO/retal: limite de até 90 mg/kg/dia (máx. 4.000 mg/dia) por no
+VO/retal (off label): limite de até 90 mg/kg/dia (máx. 4.000 mg/dia) por no
 máximo 48 h, depois ≤60 mg/kg/dia. [S1: via oral; S2: via retal]
-Ataque opcional perioperatório: até 30 mg/kg VO ou 40 mg/kg retal,
+Ataque opcional perioperatório (off label): até 30 mg/kg VO ou 40 mg/kg retal,
 máximo 1.000 mg, incluído no total diário. [S1]
 Não aplicar teto de 90 mg/kg/dia à via EV, uso domiciliar ou paciente
 com risco hepático.
@@ -28661,7 +28671,7 @@ teto 40 mg/kg/dia. [S2]
 Esquema institucional pediátrico; em prematuros, estabelecer idade
 gestacional e maturidade antes da prescrição.
 MONITORIZAÇÃO E PRECAUÇÕES Somar todas as apresentações e associações; reduzir exposição
-em hepatopatia, desnutrição e doença renal grave. Reavaliar diariamente a necessidade; tratar
+em hepatopatia, desnutrição e doença renal grave. EV 10 mg/mL: prescrever a dose em mg e o volume em mL (confusão entre mg e mL causou sobredoses de 10 vezes em crianças pequenas). Reavaliar diariamente a necessidade; tratar
 desconforto, não um número isolado de temperatura.
 INDICAÇÕES DO PDF-BASE (registro documental, p. 44)
 Alívio de febre e dor leve a moderada de diversas etiologias; suporte analgésico multimodal.
@@ -28682,18 +28692,18 @@ COMPLEMENTO DOCUMENTAL ANVISA — 25/10/2026
 Identidade nominal exata; fonte documental com mapeamento por regime pendente. Não autoriza cálculo, prescrição, seleção de apresentação ou extrapolação de dose/diluição. Não substitui revisões clínicas específicas.
 
 Apresentações descritas (verificação individual pendente):
-Gotas 200 mg/mL (1 gota = 10 mg a 15 mg conforme fabricante; no Brasil frasco padrão 1 gota = 10 mg); Solução oral 32 mg/mL (160 mg/5 mL); Comprimidos 500 mg e 750 mg; Comprimidos mastigáveis 80 mg e 160 mg; Supositórios 150 mg e 250 mg; Solução para infusão IV 10 mg/mL (bolsa 100 mL = 1000 mg)
+Gotas 200 mg/mL (1 gota = aprox. 10 a 15 mg conforme fabricante; p. ex., Tylenol gotas: 1 mL = 14 a 16 gotas, ~13,3 mg/gota; conferir a bula do frasco); Solução oral 32 mg/mL (160 mg/5 mL); Comprimidos 500 mg e 750 mg; Comprimidos mastigáveis 80 mg e 160 mg; Supositórios 150 mg e 250 mg; Solução para infusão IV 10 mg/mL (bolsa 100 mL = 1000 mg)
 
 Resumo de Indicações Clínicas:
 Analgésico e antipirético não opioide de ação central (inibidor da síntese de prostaglandinas no SNC) padrão-ouro em pediatria desde o período neonatal. Primeira linha de escolha para controle de Febre e Dor de intensidade leve a moderada em recém-nascidos, lactentes, crianças e pacientes com contraindicação a AINEs (dengue, úlcera péptica, asma).
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
-• [Febre e Dor — Lactentes e Crianças (VO)]: 10 a 15 mg/kg/dose (Dose padrão mais utilizada: 15 mg/kg/dose ou 1 a 1,5 gotas/kg/dose da formulação 200 mg/mL) — A cada 4 a 6 horas conforme necessidade (Dose máxima diária: 60 a 75 mg/kg/dia em crianças ou máx 4 g/dia; em recém-nascidos e prematuros limitar a máx 40 a 60 mg/kg/dia).
-• [Via Intravenosa na Emergência / Pós-Operatório (IV)]: Lactentes e Crianças ≤ 10 kg: 7,5 a 10 mg/kg/dose a cada 6h (Máx: 30 mg/kg/dia). Crianças 10 a 50 kg: 15 mg/kg/dose a cada 6h (Máx: 60 mg/kg/dia ou 2 g/dia). Adolescentes > 50 kg: 1 g a cada 6h (Máx: 4 g/dia). — Infundir em 15 minutos em SF0,9% ou SG5%.
-• [Via Retal (Supositório)]: 15 a 20 mg/kg/dose a cada 6 a 8 horas — Absorção mais lenta e variável
+• [Febre e Dor — Lactentes e Crianças (VO)]: 10 a 15 mg/kg/dose (Dose padrão mais utilizada: 15 mg/kg/dose ou ~1 gota/kg/dose da formulação 200 mg/mL; bula Tylenol: máx 35 gotas/dose em < 12 anos, e acima dessa idade calcular em mg; conferir mg/gota do frasco) — A cada 4 a 6 horas conforme necessidade (Dose máxima diária: 60 a 75 mg/kg/dia em crianças ou máx 4 g/dia; em recém-nascidos e prematuros limitar a máx 40 a 60 mg/kg/dia).
+• [Via Intravenosa na Emergência / Pós-Operatório (IV)]: Lactentes e Crianças ≤ 10 kg: 7,5 mg/kg/dose a cada 6h (Máx: 30 mg/kg/dia). Crianças >10 a 33 kg: 15 mg/kg/dose a cada 6h (Máx: 60 mg/kg/dia, até 2 g/dia); >33 a 50 kg: 15 mg/kg/dose a cada 6h (Máx: 60 mg/kg/dia, até 3 g/dia). Adolescentes > 50 kg: 1 g a cada 6h (Máx: 4 g/dia). — Infundir em 15 minutos em SF0,9% ou SG5%.
+• [Via Retal (Supositório)]: 15 a 20 mg/kg/dose a cada 6 a 8 horas (máx 60 mg/kg/dia; 20 mg/kg no máx 3 doses/dia) — Absorção mais lenta e variável
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
-HEPATOTOXICIDADE POR SUPERDOSAGEM: Doses agudas superiores a 150 mg/kg causam necrose hepática centrolobular fulminante por acúmulo do metabólito tóxico NAPQI (antídoto de emergência: N-Acetilcisteína).; Condições: Insuficiência hepática grave descompensada e hepatite aguda.
+HEPATOTOXICIDADE POR SUPERDOSAGEM: Doses agudas superiores a 150 mg/kg causam necrose hepática centrolobular fulminante por acúmulo do metabólito tóxico NAPQI (antídoto de emergência: N-Acetilcisteína).; Condições: Hipersensibilidade ao paracetamol ou a componentes da fórmula; insuficiência hepática grave descompensada e hepatite aguda.
 
 Status da fonte: DOCUMENTARY_ONLY_REQUIRES_REGIMEN_LEVEL_SOURCE_MAPPING
 
@@ -32071,7 +32081,7 @@ Crianças com
 asma/sibilância
 responsiva
 Alternativa RCH: <6 anos, 6 jatos de 100 mcg; ≥6 anos, 12 jatos; repetir a
-cada 20 min inicialmente. Nebulização intermitente: 0,05-0,15
+cada 20 min por 3 doses (esquema RCH moderada/grave). Nebulização intermitente: 0,05-0,15
 mg/kg/dose, titulada à resposta. Crise crítica requer regime intensivo e
 monitorização contínua. [S2]
 Diretriz hospitalar mais antiga; escolher um esquema institucional, sem
@@ -34173,11 +34183,11 @@ Apresentações descritas (verificação individual pendente):
 Solução injetável concentrada 10% (100 mg/mL = 0,8 mEq Mg/mL) e 50% (500 mg/mL = 0,5 g/mL = 4 mEq Mg/mL, ampolas 10 mL = 5 g)
 
 Resumo de Indicações Clínicas:
-Eletrólito essencial com ação broncodilatadora sobre a musculatura lisa brônquica por bloqueio dos canais de cálcio e antiarrítmico de membrana. Primeira linha na Crise Asmática Grave Aguda refratária na emergência pediátrica, Torsades de Pointes / Hipomagnesemia sintomática e Eclâmpsia em adolescentes.
+Eletrólito essencial com ação broncodilatadora sobre a musculatura lisa brônquica por bloqueio dos canais de cálcio e antiarrítmico de membrana. Adjuvante (off label) na Crise Asmática Grave Aguda refratária a broncodilatadores e corticosteroide na emergência pediátrica; Torsades de Pointes (off label); Hipomagnesemia sintomática e Eclâmpsia em adolescentes.
 
 Esquemas Posológicos Pediátricos Detalhados (Indicação • População • Dose, Intervalo e Duração):
 • [Crise Asmática Grave Aguda na Emergência (IV)]: 40 a 50 mg/kg (Máx: 2000 mg = 2 g) infundido em 20 a 30 minutos diluído em SF0,9% ou SG5% sob monitorização contínua de PA e oximetria. — Promove broncodilatação rápida e reduz necessidade de intubação traqueal.
-• [Torsades de Pointes / Hipomagnesemia Grave (IV/IO)]: 25 a 50 mg/kg (Máx: 2 g) em bolus IV lento em 10 a 20 minutos (em PCR infundir em 2 a 5 minutos). — Monitorar ECG continuamente.
+• [Torsades de Pointes com pulso (IV/IO) - off label]: 25 a 50 mg/kg (Máx: 2 g) em bolus IV lento em 10 a 20 minutos (em PCR infundir em 1 a 2 minutos). Hipomagnesemia grave sem arritmia: não usar este tempo; seguir o esquema principal (infundir em 2 a 4 h). — Monitorar ECG continuamente.
 
 Contraindicações, Restrições Etárias e Alertas Clínicos:
 Condições: Bloqueio atrioventricular total, miastenia gravis e insuficiência renal anúrica grave.; Toxicidade por Hipermagnesemia: Sinais de sobredosagem incluem perda precoce dos reflexos osteotendíneos profundos (patelar), hipotensão e depressão respiratória (antídoto imediato: Gluconato de Cálcio 10% IV).
@@ -36329,7 +36339,7 @@ elegíveis
 100 mg VO a cada 12 h inicialmente; se necessário 150-200 mg a
 cada 12 h, máximo 400 mg/dia. Engolir inteiro; duração
 individualizada com reavaliação. [S1]
-MONITORIZAÇÃO E PRECAUÇÕES Não usar <12 anos segundo restrição FDA; contraindicado <18
+MONITORIZAÇÃO E PRECAUÇÕES Não usar <12 anos segundo restrição FDA (a bula brasileira [S1] admite solução injetável e solução oral a partir de 1 ano: dose única de 1-2 mg/kg, máx. 8 mg/kg/dia ou 400 mg/dia, o que for menor; cápsulas e Retard apenas >12 anos); contraindicado <18
 anos após tonsilectomia/adenoidectomia. Evitar 12-18 anos com obesidade, apneia ou doença
 respiratória importante. Risco de depressão respiratória/CYP 2D6 ultrarrápido, síndrome
 serotoninérgica e convulsões; ajustar rim/fígado.
