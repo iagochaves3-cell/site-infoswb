@@ -25642,7 +25642,7 @@ RESTRIÇÃO / CONTEXTO
 ESPECÍFICO
 Titular morfina de liberação imediata à analgesia e efeitos adversos;
 pacientes tolerantes podem precisar doses maiores que iniciais
-acima. Após dose diária estável, formulação prolongada (off label: bula BR só para adultos, contraindicada <18 anos; engolir inteira, não partir/abrir/mastigar) pode usar
+acima. Após dose diária estável, formulação prolongada (off label: bula BR só para adultos, contraindicada <18 anos; engolir com líquido; se houver dificuldade, a bula admite abrir a cápsula e misturar os microgrânulos a alimento pastoso, sem mastigar, quebrar nem triturar) pode usar
 0,2-0,8 mg/kg/dose 12/12 h como faixa inicial descrita, com ajustes
 30-50%; não há teto universal em paciente tolerante. [S2]
 Não iniciar automaticamente dose alta de liberação prolongada em
